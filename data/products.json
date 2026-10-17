@@ -1,0 +1,88 @@
+
+[
+  {
+    "id": 10,
+    "name": "Creme hydratante",
+    "category": "Soins du visage",
+    "price": 220,
+    "stock": 20
+  },
+  {
+    "id": 11,
+    "name": "Serum visage",
+    "category": "Soins du visage",
+    "price": 250,
+    "stock": 12
+  },
+  {
+    "id": 12,
+    "name": "Nettoyant visage",
+    "category": "Soins du visage",
+    "price": 155,
+    "stock": 25
+  },
+  {
+    "id": 13,
+    "name": "Lait corporel",
+    "category": "Soins du corps",
+    "price": 99,
+    "stock": 18
+  },
+  {
+    "id": 14,
+    "name": "Gel douche",
+    "category": "Soins du corps",
+    "price": 195,
+    "stock": 30
+  },
+  {
+    "id": 15,
+    "name": "Creme pour les mains",
+    "category": "Soins du corps",
+    "price": 235,
+    "stock": 22
+  },
+  {
+    "id": 16,
+    "name": "Shampoing nourrissant",
+    "category": "Soins des cheveux",
+    "price": 250,
+    "stock": 16
+  },
+  {
+    "id": 17,
+    "name": "Masque capillaire",
+    "category": "Soins des cheveux",
+    "price": 170,
+    "stock": 10
+  },
+  {
+    "id": 18,
+    "name": "Apres-shampoing",
+    "category": "Soins des cheveux",
+    "price": 90,
+    "stock": 14
+  }
+  ,
+  {
+    "id": 19,
+    "name": "Creme solaire",
+    "category": "Soins du visage",
+    "price": 180,
+    "stock": 15
+  },
+  {
+    "id": 20,
+    "name": "Huile capillaire",
+    "category": "Soins des cheveux",
+    "price": 160,
+    "stock": 20
+  },
+  {
+    "id": 21,
+    "name": "Gommage corporel",
+    "category": "Soins du corps",
+    "price": 175,
+    "stock": 17
+  }
+]
